@@ -58,7 +58,7 @@ This project helped strengthen understanding of:
 
 ## 🌐 Live Demo
 
-👉 bookvibe-004.netlify.app
+👉 https://app.netlify.com/projects/bookvibe-004/
 
 
 ---
